@@ -1,0 +1,47 @@
+{
+  "siteUrl": "https://mediamanager.example.com",
+  "pressUrl": "https://mediamanager.example.com/press",
+  "pressContactEmail": "press@mediamanager.example.com",
+  "releaseDate": "2026-10-15",
+  "version": "1.0.0",
+  "assets": {
+    "logo": "/press/assets/logo.svg",
+    "wordmark": "/press/assets/wordmark.svg",
+    "ogImage": "/press/assets/og-card.png",
+    "favicon": "/press/assets/favicon.ico"
+  },
+  "screenshots": {
+    "campaign": {
+      "title": "Campaign Planning",
+      "description": "Visual campaign planning with product organization",
+      "file": "/press/assets/screenshots/campaign.png"
+    },
+    "composer": {
+      "title": "Multi-Platform Composer",
+      "description": "Create and optimize content for each platform",
+      "file": "/press/assets/screenshots/composer.png"
+    },
+    "scheduler": {
+      "title": "Content Scheduler",
+      "description": "Visual calendar with drag-and-drop scheduling",
+      "file": "/press/assets/screenshots/scheduler.png"
+    },
+    "vault": {
+      "title": "Media Vault",
+      "description": "Centralized asset management and organization",
+      "file": "/press/assets/screenshots/vault.png"
+    },
+    "analytics": {
+      "title": "Performance Analytics",
+      "description": "Track engagement and reach across all channels",
+      "file": "/press/assets/screenshots/analytics.png"
+    }
+  },
+  "trailerVideo": {
+    "title": "Media Manager Launch Trailer",
+    "description": "See Media Manager in action",
+    "placeholder": true,
+    "embedUrl": "",
+    "note": "Launch video coming soon (Ticket MM-74)"
+  }
+}

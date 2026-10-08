@@ -1,0 +1,14 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e5e7eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1d5db;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#grad)"/>
+  
+      <rect x="880" y="460" width="160" height="160" rx="20" fill="white" opacity="0.3"/>
+      <text x="960" y="640" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="600" fill="#6b7280" text-anchor="middle">Content Scheduler</text>
+      <text x="960" y="680" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#9ca3af" text-anchor="middle">Demo Screenshot Placeholder</text>
+    
+</svg>

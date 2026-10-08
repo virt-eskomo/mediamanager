@@ -1,0 +1,57 @@
+{
+  "name": "Media Manager",
+  "tagline": "Plan, create, and publish across all your social platforms",
+  "shortDescription": "A comprehensive social media planning and publishing platform that helps teams collaborate, schedule content, and measure performance across multiple channels.",
+  "longDescription": "Media Manager is a professional-grade social media management platform designed for modern marketing teams. Plan campaigns with visual calendars, create platform-optimized content with our intelligent composer, schedule posts across all major social networks, organize assets in a centralized vault, and track performance with detailed analytics. Built for collaboration, Media Manager integrates seamlessly with your workflow through MCP agent access and TaskJoe integration.",
+  "features": [
+    {
+      "title": "Products & Plans",
+      "description": "Organize your social strategy with products and campaigns that map to your business goals"
+    },
+    {
+      "title": "Smart Composer",
+      "description": "Create once, optimize for each platform automatically with per-platform variants"
+    },
+    {
+      "title": "Scheduling & Publishing",
+      "description": "Visual calendar interface with intelligent scheduling and multi-platform publishing"
+    },
+    {
+      "title": "Media Vault",
+      "description": "Centralized asset library with tagging, search, and version control"
+    },
+    {
+      "title": "Analytics Dashboard",
+      "description": "Track engagement, reach, and performance metrics across all your channels"
+    },
+    {
+      "title": "MCP Integration",
+      "description": "Agent-accessible API for workflow automation and AI-powered content assistance"
+    },
+    {
+      "title": "TaskJoe Link",
+      "description": "Seamless task management integration for content workflows and approvals"
+    }
+  ],
+  "platforms": ["Web"],
+  "contact": {
+    "email": "press@mediamanager.example.com",
+    "website": "https://mediamanager.example.com"
+  },
+  "links": {
+    "website": "https://mediamanager.example.com",
+    "press": "https://mediamanager.example.com/press",
+    "demo": "https://mediamanager.example.com/demo",
+    "docs": "https://mediamanager.example.com/docs"
+  },
+  "colors": {
+    "primary": "#3b82f6",
+    "secondary": "#8b5cf6",
+    "accent": "#ec4899"
+  },
+  "social": {
+    "twitter": "@mediamanager",
+    "linkedin": "media-manager",
+    "github": "mediamanager"
+  }
+}
